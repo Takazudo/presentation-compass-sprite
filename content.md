@@ -236,7 +236,7 @@ $icon-sprite-dimensions: true;
 
 ----
 
-## Configuration example
+## Configurable variables example
 
 Configure before `@import`.
 
